@@ -6,3 +6,5 @@ banana
 
 M:
 morango
+melancia
+maçã
