@@ -1,7 +1,7 @@
 A:
-amora
+4- amoras
 
 M:
-morango
-melancia
-maçã
+6- morangos
+1- melancia
+3- maçãs
