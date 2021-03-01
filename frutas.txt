@@ -1,9 +1,6 @@
 A:
 amora
 
-B:
-banana
-
 M:
 morango
 melancia
